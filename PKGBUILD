@@ -19,3 +19,5 @@ build() {
     cd "$srcdir/$(zipinfo -1 "$srcdir/$pkgname-$pkgver.zip" | head -1)"
     python setup.py install --root="$pkgdir" --optimize=1
 }
+
+# vim: set ts=4 sw=4 et:
