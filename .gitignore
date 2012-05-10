@@ -1,0 +1,15 @@
+# package and source directories
+pkg
+src
+
+# source files
+python-nbt-*.zip
+python2-nbt-*.zip
+
+# package files
+python-nbt-*-any.pkg.tar.xz
+python2-nbt-*-any.pkg.tar.xz
+
+# package source files
+python-nbt-*.src.tar.gz
+python2-nbt-*.src.tar.gz
