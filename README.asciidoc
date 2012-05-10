@@ -1,0 +1,19 @@
+README
+======
+
+Arch Linux PKGBUILDs for Twoolie's NBT library.
+
+For the python3 package, use
+
+	makepkg
+
+For python2, use
+
+	makepkg -p PKGBUILD-python2
+
+Both these PKGBUILDs are also available in the
+http://aur.archlinux.org/packages.php?O=0&K=python-nbt&do_Search=Go[AUR].
+
+/////
+vim: set syntax=asciidoc ts=4 sw=4 noet:
+/////
