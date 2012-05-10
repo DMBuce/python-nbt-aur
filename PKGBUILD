@@ -12,7 +12,7 @@ license=('CUSTOM')
 arch=('any')
 #source=('http://pypi.python.org/packages/source/N/NBT/NBT-$pkgver.zip')
 source=("$pkgname-$pkgver.zip::https://github.com/twoolie/NBT/zipball/version-$pkgver")
-md5sums=('76c2e16b415b127409db3ed9fe0f4ea4')
+md5sums=('44e6c8d6380501df8141168125c2c059')
 
 build() {
     #cd "$srcdir/NBT-$pkgver"
